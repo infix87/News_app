@@ -39,7 +39,6 @@ public class NewsParse extends AppCompatActivity {
                 JsoupAsyncTask jsoupAsyncTask = new JsoupAsyncTask();
                 jsoupAsyncTask.execute();
                 cnt++;
-
             }
         });
     }
