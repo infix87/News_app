@@ -10,7 +10,7 @@ public class NewsActivity extends AppCompatActivity {
     private RecyclerView recyclerView;
     private RecyclerView.Adapter mAdapter;
     private RecyclerView.LayoutManager layoutManager;
-    private String[] myDataset = {"1", "2", "안녕하세요요요요", "반갑습니다~~"};
+    private String[] myDataset = {"1", "2", "안녕하세요요요요", "반갑습니다~~", "안녕히계세요", "빠이빠이"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
